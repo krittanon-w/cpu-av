@@ -1,0 +1,19 @@
+{
+  "name": "cpu-av",
+  "version": "1.0.0",
+  "description": "calculate the current CPU load with Node.js without using any external modules or OS specific calls",
+  "main": "cpu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krittanon-w/cpu-av.git"
+  },
+  "author": "krittanon.w",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krittanon-w/cpu-av/issues"
+  },
+  "homepage": "https://github.com/krittanon-w/cpu-av#readme"
+}
