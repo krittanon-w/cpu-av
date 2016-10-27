@@ -4,7 +4,8 @@
   "description": "calculate the current CPU load with Node.js without using any external modules or OS specific calls",
   "main": "cpu.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node cpu.js"
   },
   "repository": {
     "type": "git",

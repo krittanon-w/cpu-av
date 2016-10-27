@@ -44,4 +44,4 @@ setTimeout(function() {
 
     console.log(percentageCPU + "% CPU Usage.");
 
-}, 100);
+}, 1000);
